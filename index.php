@@ -24,7 +24,7 @@ require_once 'controller/Usuario.php';
   
 
     <fieldset class="tela_login" style="width: 400px;">
-        <center> <h1>Perfume Shop</h1><img src="views/imagem/logo-sistema.JPG" width="150px"> </center>
+        <center> <h1>Perfume Shop</h1><img src="imagem/logo-sistema.JPG" width="150px"> </center>
         
    
             <form class="tela-login" method="post" action="acoes/login.php">
