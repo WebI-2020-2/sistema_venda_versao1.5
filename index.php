@@ -10,7 +10,7 @@ require_once 'controller/Usuario.php';
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="views/css/style.css">
+    <link rel="stylesheet" type="text/css" href="style/style.css">
      
    <script src="views/js/script.js"></script>
     <script src="views/js/jquery-3.6.0.min.map"></script>
