@@ -1,5 +1,5 @@
 # perfume-shop e sistema que o cliente pode realizar venda, entrada de produtos
-com os nives de acessos 
+com três de nives de acessos diferente 
 JuniorFag2021  Gerente   1 senha 123456 
 @anaclaragmail.com  Estoquista 2 senha 112233
 @aninhagmail.com    Vendedor   0 senha 123345iur
