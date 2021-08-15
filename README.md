@@ -12,7 +12,9 @@
 <body>
 	<p>
 
-O sistema Perfume-Shop teve início como um projeto de banco de dados, na disciplina de Tópicos Avançados em Banco de Dados, ministrada pelo docente Fábio Santos Lima. Assim, os Discentes Robério Fagundes dos Santos e John Junqueira Aranha, criaram um projeto de banco de dados, relacionado a um sistema de vendas. Logo mais o projeto evoluiu na disciplina de Web 1, ganhando mais dois membros para a equipe, sendo eles, Leonardo Santana e Paulo Sérgio, em que os mesmos contribuiram na parte do front end, fato que pode-se notar o talento nato desses profissionais. Assim construímos o projeto, utilizando a linguagem de programação php, construindo telas com originalidade, sem utilizar framework, esse foi o ponto diferencial do nosso projeto. Porque o sistema foi todo construído desde o back end ao front end sem framework. Na parte do back end os discentes John Junqueira e Robério Fagundes dos Santos ficaram responsáveis pela inteligência do sistema. 
+O sistema Perfume-Shop teve início como um projeto de banco de dados, na disciplina de Tópicos Avançados em Banco de Dados, ministrada pelo docente Fábio Santos Lima. Assim,   os Discentes Robério Fagundes dos Santos e John Junqueira Aranha, criaram um projeto de banco de dados, relacionado a um sistema de vendas. 
+Logo mais o projeto evoluiu na disciplina de Web 1, ganhando mais dois membros para a equipe, sendo eles, Leonardo Santana e Paulo Sérgio, em que os mesmos contribuiram na parte do front end e back end, fato que pode-se notar o talento nato desses profissionais. Assim construímos o projeto, utilizando a linguagem de programação php, construindo telas com originalidade, sem utilizar framework, esse foi o ponto diferencial do nosso projeto. Porque o sistema foi todo construído desde o back end ao front end sem framework. Na parte principal do back end os discentes John Junqueira e Robério Fagundes dos Santos ficaram responsáveis pela inteligência do sistema. 
+
 
 <b>Ferramenta utilizadas</b> <br>
 		•	Criação de tela <b>justinmind</b> <br>
