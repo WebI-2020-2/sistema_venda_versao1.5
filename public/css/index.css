@@ -1,0 +1,193 @@
+    @import url(https://fonts.googleapis.com/css?family=Roboto);
+
+    @import url(https://fonts.googleapis.com/css?family=Roboto);
+    body {
+      margin: 0;
+      font-family: "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+      background:  #323639;
+    }
+
+    section#nav-test {
+      height: 10vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+    }
+    section#nav-test #nav-container {
+      position: relative;
+      margin: 60px auto;
+      box-sizing: border-box;
+    }
+    section#nav-test #nav-container ul {
+      display: flex;
+      background: #323639;
+      padding-left: 920px;
+      padding-right: 30px;
+      margin: 0;
+    }
+
+    section#nav-test #nav-container img {
+     
+      
+      padding-right: 30px;
+      margin-top: -210px;
+      margin-left: 20px;
+
+    }
+    section#nav-test #nav-container ul li {
+      display: flex;
+      align-items: center;
+      min-height: 100px;
+      margin-left: 60px;
+      margin-top: 300px;
+
+     
+    }
+    section#nav-test #nav-container ul li:first-child {
+      margin-left: 0;
+
+    }
+    section#nav-test #nav-container ul li a {
+      color: #f1f1f1;
+      text-decoration-line: none;
+    }
+    section#nav-test #nav-container #line {
+      position: absolute;
+      bottom: 0;
+      height: 2px;
+      background: red;
+      transition: all 150ms ease-in-out;
+    }
+    section#nav-test h1 {
+      margin-top: 30px;
+      font-weight: 500;
+      color: #212121;
+    }
+
+    section#nav-test #nav-container ul li a img{
+    margin-top: -100px;
+    margin-left: -10px;
+    }
+
+    footer {
+        position:relative;
+        bottom: 0;
+        background-color: #323639;
+        color: #FFF;
+        width: 100%;
+        height: 130px;    
+        text-align: center;
+        line-height: 100px;
+        margin-top: 390px;
+     
+    }
+
+    #centro :first-child{ 
+     position: relative;
+     text-align: center;
+     top: 230px;line-height:200px;
+     height: 200px; 
+     color: white;
+     background-color: #20B2AA;
+     width: 800px;
+
+    }
+
+    #centro2 h1:first-child{ 
+     position: relative;
+     text-align: center;
+     line-height: 200px;
+     left: 870px;
+     height: 200px; 
+     color: white;
+     background-color:#808080;
+     width: 260px;
+     top: 10px;
+
+    }
+
+    #centro3 :first-child{ 
+     position: relative;
+     text-align: center;
+     line-height: 200px;
+     left: 1200px;
+     height: 200px; 
+     color: white;
+     background-color: #323639;
+     width: 260px;
+     top: -210px;
+
+
+    }
+    .buton {
+            position: relative;
+            top: 250px;
+            background-color: #20B2AA;
+            border: none;
+            color: white;
+            padding: 10px 90px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 15px;
+            margin: 4px 2px;
+            cursor: pointer;
+            margin-left: 550px;   
+
+            }
+            .buton2 {
+            background-color: #f44336;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 15px;
+            margin: 4px 2px;
+            cursor: pointer;
+            margin-left: 120px;  
+            margin-top: 100px;
+              font-family:Verdana;
+        
+
+            }
+
+            .titulo {    
+
+                font-size: 15pt;
+                font-family:Verdana;
+                color: white;
+                text-align:center;
+                position: relative;
+                top: 200px;
+                left: -160px;
+            }
+               .titulo2 {    
+
+                font-size: 10pt;
+                font-family:Verdana;
+                color: white;
+                text-align:center;
+                position: relative;
+                top: 200px;
+                left: -200px;
+
+            }
+            .inp{
+                position:relative;
+                padding: 10px 130px;
+                top: 290px;
+                color: #545454;
+               
+
+            }
+
+           .inp2{
+                position: relative;
+                padding: 10px 130px;
+                margin-left: 450px;
+                top: 200px;
+            }
+           
