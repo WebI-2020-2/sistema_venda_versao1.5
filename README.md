@@ -13,6 +13,8 @@ Perfume-Shop, é um sistema em que o usuário estoquista realiza a entrada de pr
 
 
 ![tela de gerente](https://user-images.githubusercontent.com/81059103/129488057-d65ad1e0-9f25-4c85-b355-158226c9863c.JPG)
+
+![tela de entrada de produto](https://user-images.githubusercontent.com/81059103/129488300-9e03a9be-0d06-418b-9355-e93925d540b0.JPG)
     
     tela inicial do vendedor
     
