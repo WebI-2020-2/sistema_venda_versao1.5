@@ -1,15 +1,4 @@
 
- 
-![login](https://user-images.githubusercontent.com/81059103/129487783-0e577ce2-55c5-46db-8f9b-43a0376e9f9a.JPG)
-
-
-![tela de gerente](https://user-images.githubusercontent.com/81059103/129488057-d65ad1e0-9f25-4c85-b355-158226c9863c.JPG)
-
-![tela de entrada de produto](https://user-images.githubusercontent.com/81059103/129488300-9e03a9be-0d06-418b-9355-e93925d540b0.JPG)
-    
-    tela inicial do vendedor
-    
-  ![perfume e shop](https://user-images.githubusercontent.com/81059103/129487235-e8ea361e-f147-422d-8646-aa4e9a6a6b88.JPG)
   
   
     
@@ -30,6 +19,20 @@ O sistema Perfume-Shop teve início como um projeto de banco de dados, na discip
 		•	Ferramenta de banco de dados <b>pgadmin e dbeaver</b><br>
 •	Ide de desenvolvimento <b>sublime text e visual code</b><br>
 		•	Ferramenta de comunicação para equipe <b>Microsoft teams</b><br>
+		
+		
+	tela de login
+ 
+![login](https://user-images.githubusercontent.com/81059103/129487783-0e577ce2-55c5-46db-8f9b-43a0376e9f9a.JPG)
+
+	 tela inicial de gerente
+![tela de gerente](https://user-images.githubusercontent.com/81059103/129488057-d65ad1e0-9f25-4c85-b355-158226c9863c.JPG)
+	tela inicial para cadastrar produto
+![tela de entrada de produto](https://user-images.githubusercontent.com/81059103/129488300-9e03a9be-0d06-418b-9355-e93925d540b0.JPG)
+    
+    tela inicial do vendedor
+    
+  ![perfume e shop](https://user-images.githubusercontent.com/81059103/129487235-e8ea361e-f147-422d-8646-aa4e9a6a6b88.JPG)
 
  
 <h3> Usuário administrador (Gerente):</h3> 
