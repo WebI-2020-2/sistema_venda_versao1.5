@@ -22,14 +22,14 @@
 </head>
 <body>
 	<p>
-	Perfume-Shop teve inicio com um projeto de banco de dados da disciplina de tópicos avançado de banco de dados do IF-Baiano Campus Guanambi-Bahia ministrada pelo o docente Fabio Lima. A onde os Discentes Robério Fagundes dos Santos e John Junqueira montarão desenvolverão um projeto de banco de dados de um sistema de venda. 
-Logo mais o projeto iria evoluir na disciplina de web 1 ganhando mais dois membros para equipe Leonardo Santana e Paulo Sergio aonde os mesmos contribuirão na parte do font end e básico do back end onde pode ser notar o talento nato desses profissionais. Construindo tela com originalidade sem framework esse foi o ponto diferencial da equipe. Porque o sistema foi todo construindo deste font end ao back end sem framework, na parte do back end os discentes John Junqueira e Robério Fagundes dos Santos ficarão responsável pela inteligência do sistema  
 
-Ferramenta utilizadas <br>
-•	Criação de tela justinmind <br>
-•	Ferramenta de banco de dados pgadmin e dbeaver<br>
-•	Ide de desenvolvimento sublime text e visual code<br>
-•	Ferramenta de comunicação para equipe Microsoft teams<br>
+O sistema Perfume-Shop teve início como um projeto de banco de dados, na disciplina de Tópicos Avançados em Banco de Dados, ministrada pelo docente Fábio Santos Lima. Assim, os Discentes Robério Fagundes dos Santos e John Junqueira Aranha, criaram um projeto de banco de dados, relacionado a um sistema de vendas. Logo mais o projeto evoluiu na disciplina de Web 1, ganhando mais dois membros para a equipe, sendo eles, Leonardo Santana e Paulo Sérgio, em que os mesmos contribuiram na parte do front end, fato que pode-se notar o talento nato desses profissionais. Assim construímos o projeto, utilizando a linguagem de programação php, construindo telas com originalidade, sem utilizar framework, esse foi o ponto diferencial do nosso projeto. Porque o sistema foi todo construído desde o back end ao front end sem framework. Na parte do back end os discentes John Junqueira e Robério Fagundes dos Santos ficaram responsáveis pela inteligência do sistema. 
+
+<b>Ferramenta utilizadas</b> <br>
+		•	Criação de tela <b>justinmind</b> <br>
+		•	Ferramenta de banco de dados <b>pgadmin e dbeaver</b><br>
+•	Ide de desenvolvimento <b>sublime text e visual code</b><br>
+		•	Ferramenta de comunicação para equipe <b>Microsoft teams</b><br>
 
  
 <h3> Usuário administrador (Gerente):</h3> 
