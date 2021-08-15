@@ -8,3 +8,11 @@ Perfume-Shop, é um sistema em que o usuário estoquista realiza a entrada de pr
  
 <h3>Usuário vendedor:</h3> 
     <h5>Login e senha: @Aninhagmail.com, Senha:123345iur;</h5>
+    
+    <table>
+
+		<thead>
+			<th>funcionario</th>
+			<th>não funcionario</th>
+		</thead>
+	</table>
