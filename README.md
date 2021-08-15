@@ -11,7 +11,26 @@
     
   ![perfume e shop](https://user-images.githubusercontent.com/81059103/129487235-e8ea361e-f147-422d-8646-aa4e9a6a6b88.JPG)
   
-  Perfume-Shop, é um sistema em que o usuário estoquista realiza a entrada de produtos para estoque, o usuário vendedor realiza vendas, podendo visualizar a lista com os nomes dos produtos em estoque, como também cadastrar cliente. Já o terceiro, é o usuário administrador, no caso, o gerente da loja, que tem acesso a todo sistema, podendo visualizar, cadastar, alterar e excluir em qualquer parte do sistema.
+  
+    
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	
+</head>
+<body>
+	<p>
+	Perfume-Shop teve inicio com um projeto de banco de dados da disciplina de tópicos avançado de banco de dados do IF-Baiano Campus Guanambi-Bahia ministrada pelo o docente Fabio Lima. A onde os Discentes Robério Fagundes dos Santos e John Junqueira montarão desenvolverão um projeto de banco de dados de um sistema de venda. 
+Logo mais o projeto iria evoluir na disciplina de web 1 ganhando mais dois membros para equipe Leonardo Santana e Paulo Sergio aonde os mesmos contribuirão na parte do font end e básico do back end onde pode ser notar o talento nato desses profissionais. Construindo tela com originalidade sem framework esse foi o ponto diferencial da equipe. Porque o sistema foi todo construindo deste font end ao back end sem framework, na parte do back end os discentes John Junqueira e Robério Fagundes dos Santos ficarão responsável pela inteligência do sistema  
+
+Ferramenta utilizadas <br>
+•	Criação de tela justinmind <br>
+•	Ferramenta de banco de dados pgadmin e dbeaver<br>
+•	Ide de desenvolvimento sublime text e visual code<br>
+•	Ferramenta de comunicação para equipe Microsoft teams<br>
+
  
 <h3> Usuário administrador (Gerente):</h3> 
     <h5> Login e senha: JuniorFag2021, Senha:123456; </h5>
@@ -22,15 +41,8 @@
 <h3>Usuário vendedor:</h3> 
     <h5>Login e senha: @Aninhagmail.com, Senha:123345iur;</h5>
     
-    
-
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
+		
 	
-</head>
-<body>
  
  <h1>lista de funcionalidade do sistema</h1>
  
