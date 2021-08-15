@@ -21,3 +21,53 @@
  
 <h3>Usuário vendedor:</h3> 
     <h5>Login e senha: @Aninhagmail.com, Senha:123345iur;</h5>
+    
+    
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	
+</head>
+<body>
+ 
+ <h1>lista de funcionalidade do sistema</h1>
+ 
+  <h5>login</h5>
+	<table>
+  <tr><td></td><td>funciona</td><td>não funciona</td></tr>
+			<tr><td>login para gerente</td><td>x</td><td></td></tr>
+			<tr><td>login para vendedor</td><td>x</td><td></td></tr>
+			<tr><td>controle de estouque</td><td>x</td><td></td></tr>
+	</table
+ 
+ 
+ <h5>seção gerente</h5>
+	<table>
+  <tr><td></td><td>funciona</td><td>não funciona</td></tr>
+			<tr><td>Ver usuario</td><td>x</td><td></td></tr>
+			<tr><td>Cadastrar Fornecedor</td><td></td><td>x</td></tr>
+			<tr><td>administração</td><td></td><td>x</td></tr>
+	</table><br>
+ 
+  <h5>seção entrada de produto</h5>
+	<table>
+  <tr><td></td><td>funciona</td><td>não funciona</td></tr>
+			<tr><td>realizar entrada de produto</td><td>x</td><td></td></tr>
+			<tr><td>mostrar os itens inserindo</td><td>x</td><td></td></tr>
+  	<tr><td>inserir nova entrada de produtos</td><td>x</td><td></td></tr>
+ </table>
+ 
+  <h5>seção vendedor</h5>
+	<table>
+  <tr><td></td><td>funciona</td><td>não funciona</td></tr>
+			<tr><td>realizar venda</td><td>x</td><td></td></tr>
+			<tr><td>calcula o valor total, desconto, colocar a data da venda automaticamente de itens de vendas</td><td>x</td><td></td></tr>
+	</table
+
+</body>
+</html>
+
+ 
+ 
