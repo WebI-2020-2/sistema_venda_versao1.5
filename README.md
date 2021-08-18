@@ -44,7 +44,7 @@ Logo mais o projeto evoluiu na disciplina de Web 1, ganhando mais dois membros p
     <h5>Login e senha: @anaclaragmail.com, Senha:112233;</h5>
  
 <h3>Usuário vendedor:</h3> 
-    <h5>Login e senha: @Aninhagmail.com, Senha:123345iur;</h5>
+    <h5>Login e senha: @aninhagmail.com, Senha:123345iur;</h5>
     
 		
 	
